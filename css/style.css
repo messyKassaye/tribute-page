@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: rgb(230, 228, 228);
+}
+
+img{
+    display: block;
+    height: auto;
+    margin: auto;
+    max-width: 100%;
+}
+
+#img-div{
+    background: white;
+    padding: 10px;
+}
+
+#img-caption{
+    margin: 10px;
+}
+
+ul{
+    text-align: left;
+}
